@@ -1,4 +1,5 @@
 # HCI_Assignment2
+Developed a centralized mobile application for teachers and students to share/post content and interact with each other. With the purpose of creating a more interactive and face to face online learning experience.
 # Figma Prototype
 ![Pic1](https://user-images.githubusercontent.com/59744719/155896221-fa727d19-c639-49d1-8dd2-a92051f8bfa2.PNG)
 ![pic2](https://user-images.githubusercontent.com/59744719/155896253-fd3a141b-745c-48c9-b033-7b986e533d7d.PNG)
